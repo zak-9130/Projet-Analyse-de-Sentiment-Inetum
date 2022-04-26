@@ -7,7 +7,7 @@ Nous présentons une architecture de bout en bout sur la façon de diffuser les 
 <b>Main model:</b> Data preprocessing and apply sentiment analysis on the tweets <br>
 
 
-<img align="center"  width="90%" src="https://github.com/zak-9130/Projet-Analyse-de-Sentiment-Inetum.git/master/architec_twitter.png">
+<img align="center"  width="50%" src="https://github.com/zak-9130/Projet-Analyse-de-Sentiment-Inetum.git/blob/master/architec_twitter.png">
 
 
 J'utilise Python version 3.9.1 et Spark version 3.2.1. Nous devons être prudents sur les versions que nous utilisons car les différentes versions de Spark nécessitent une version différente de Python. 
